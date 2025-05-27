@@ -1,37 +1,74 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/TheeImposter">Student</a>, <a href="https://www.linkedin.com/in/falcon200219/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Mr.x.midnight">YouTuber</a></h1>
+# David Dunbar  
+Student | Cybersecurity Practitioner | Founder @ MidnightLabs  
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
-- <b>Active Directory Home Lab</b>
-  - [Building A Home Lab From Scratch](https://github.com/TheeImposter)
+## MidnightLabs: Where Theory Meets Fire
 
-<h2> Certifications </h2>
-Security+
+This isn't a portfolio.  
+This is a journal of digital warfare, built in public.
 
-A+ (In progress)
+While studying cybersecurity, I’m building and breaking real infrastructure. MidnightLabs started as a test lab — now it mirrors the structure of a real company, complete with Active Directory domains, simulated users, GPOs, file servers, and threat drills.
 
-<h2>📺 Popular YouTube Videos</h2>
+If it breaks, I fix it.  
+If it works, I scale it.  
+If it’s unclear, I document it.
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠 Active Projects
 
-[<img align="left" alt="Mr.x.midnight | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### **MidnightLabs: Enterprise Simulation Lab**
+_“Fake company. Real pressure.”_
 
-[youtube]: https://www.youtube.com/@Mr.x.midnight
-[linkedin]: https://linkedin.com/in/joshmadakor
+- Deployed Windows Server 2019 domain with custom domain name and OU structure
+- Created a 5-branch virtual org with 1000+ simulated users
+- Group Policies for locking down USBs, enforcing password standards, setting wallpaper, and more
+- File share server with NTFS permissions based on role/group
+- Simulated ransomware incident using Sysinternals
+- Monitored artifacts in Event Viewer and documented remediation process
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _[Screenshot Placeholder — OU & GPO structure]_  
+> _[Screenshot Placeholder — Custom wallpaper or file permissions table]_
 
-Here are some ideas to get you started:
+[See the lab →](https://github.com/TheeImposter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **CCNA + Networking Labs**
+_Building muscle memory for infrastructure basics._
+
+- Cisco NetAcad: Packet Tracer, subnetting, IPv4/IPv6 configs
+- Switch and router CLI configuration  
+- ARP, ICMP, traceroutes, VLANs — learning the patterns behind traffic
+
+> _[Screenshot Placeholder — Packet Tracer simulation or config snippet]_
+
+---
+
+### **TheeImposter Systems Journal (In Progress)**  
+_Collection of detailed writeups, configs, and postmortems from every project._  
+Think: A Git-based second brain.
+
+---
+
+## Certifications
+
+- **Security+** (CompTIA) — Active  
+- A+ (in progress)  
+
+---
+
+## Contact / Watch / Connect
+
+- [YouTube: Mr. X Midnight](https://www.youtube.com/@Mr.x.midnight)
+- [LinkedIn: David Dunbar](https://www.linkedin.com/in/falcon200219/)
+- [GitHub: TheeImposter](https://github.com/TheeImposter)
+
+---
+
+## Philosophy
+
+> “I’m not here to memorize answers.  
+> I’m here to understand systems deeply enough to break them — then rebuild them stronger.”  
+> — *The Midnight Code*
