@@ -1,74 +1,11 @@
-# David Dunbar  
-Student | Cybersecurity Practitioner | Founder @ MidnightLabs  
+# MidnightLabs: A Cybersecurity Learning Journey
 
----
+MidnightLabs is my personal lab journal and portfolio—a space where I document the real process of learning cybersecurity from the ground up. This isn’t just about theory. It’s about putting hands on systems, breaking things, rebuilding them, and tracking every lesson along the way.
 
-## MidnightLabs: Where Theory Meets Fire
+Right now, I’m focused on mastering infrastructure and networking fundamentals. That includes Active Directory labs, Cisco’s Introduction to Networks (via Netacad), and plenty of rebuild cycles to deepen my understanding. I’m approaching this like an EXP grind—where each lab and note is a milestone toward long-term mastery.
 
-This isn't a portfolio.  
-This is a journal of digital warfare, built in public.
+This repo contains detailed notes, project folders, and reflections from every stage of the journey. Each entry is meant to capture more than just what I did—it’s about how I learned, what I noticed, and how I plan to improve. Over time, these notes will evolve into deeper simulations, including red team and blue team scenarios that reflect real-world cybersecurity challenges.
 
-While studying cybersecurity, I’m building and breaking real infrastructure. MidnightLabs started as a test lab — now it mirrors the structure of a real company, complete with Active Directory domains, simulated users, GPOs, file servers, and threat drills.
+Eventually, I’ll expand this into tools, investigations, and writeups—bridging the gap between study and real-world application. I also believe in balancing life with tech, so you might see the occasional system log or side project that reflects that rhythm.
 
-If it breaks, I fix it.  
-If it works, I scale it.  
-If it’s unclear, I document it.
-
----
-
-## 🛠 Active Projects
-
-### **MidnightLabs: Enterprise Simulation Lab**
-_“Fake company. Real pressure.”_
-
-- Deployed Windows Server 2019 domain with custom domain name and OU structure
-- Created a 5-branch virtual org with 1000+ simulated users
-- Group Policies for locking down USBs, enforcing password standards, setting wallpaper, and more
-- File share server with NTFS permissions based on role/group
-- Simulated ransomware incident using Sysinternals
-- Monitored artifacts in Event Viewer and documented remediation process
-
-> _[Screenshot Placeholder — OU & GPO structure]_  
-> _[Screenshot Placeholder — Custom wallpaper or file permissions table]_
-
-[See the lab →](https://github.com/TheeImposter)
-
----
-
-### **CCNA + Networking Labs**
-_Building muscle memory for infrastructure basics._
-
-- Cisco NetAcad: Packet Tracer, subnetting, IPv4/IPv6 configs
-- Switch and router CLI configuration  
-- ARP, ICMP, traceroutes, VLANs — learning the patterns behind traffic
-
-> _[Screenshot Placeholder — Packet Tracer simulation or config snippet]_
-
----
-
-### **TheeImposter Systems Journal (In Progress)**  
-_Collection of detailed writeups, configs, and postmortems from every project._  
-Think: A Git-based second brain.
-
----
-
-## Certifications
-
-- **Security+** (CompTIA) — Active  
-- A+ (in progress)  
-
----
-
-## Contact / Watch / Connect
-
-- [YouTube: Mr. X Midnight](https://www.youtube.com/@Mr.x.midnight)
-- [LinkedIn: David Dunbar](https://www.linkedin.com/in/falcon200219/)
-- [GitHub: TheeImposter](https://github.com/TheeImposter)
-
----
-
-## Philosophy
-
-> “I’m not here to memorize answers.  
-> I’m here to understand systems deeply enough to break them — then rebuild them stronger.”  
-> — *The Midnight Code*
+This project was built in the midnight hour, with intention and grit. Thanks for stopping by.
