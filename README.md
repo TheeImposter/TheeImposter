@@ -12,7 +12,7 @@ This isn’t just about learning. It’s about building something I can point to
 
 ---
 
-### Currently Building
+### ⚙️ Currently Building
 
 - Multi-branch virtual enterprise lab using Active Directory
 - Hybrid network infrastructure with layered user roles and policies
@@ -21,7 +21,35 @@ This isn’t just about learning. It’s about building something I can point to
 
 ---
 
-### Tools & Technologies
+### 🛰️ Featured Logs
+
+Browse some foundational entries from the EXP grind:
+
+- [`Entry 1.1 – What Is a Domain?`](https://github.com/TheeImposter/Midnightlabs/blob/main/Lab-journal/Entry1.1-DomainBasics.md)  
+  Breaking down domain structure and its role in WAN-based enterprise environments.
+
+- [`Entry 1.2 – Network Representations`](https://github.com/TheeImposter/Midnightlabs/blob/main/Lab-journal/Entry1.2-NetworkRepresentations.md)  
+  Visualizing LAN vs WAN, intermediary devices, and how networking infrastructure is mapped.
+
+- [`Entry 1.3 – Core Network Characteristics`](https://github.com/TheeImposter/Midnightlabs/blob/main/Lab-journal/Entry1.3NetworkCharacteristics.md)  
+  A visual and conceptual walkthrough of fault tolerance, scalability, QoS, and security.
+
+---
+
+### 🧭 Roadmap Preview
+
+🟢 **1.x — Foundational Labs**  
+Early learning, notes, and exercises that strengthen our understanding of network fundamentals.
+
+🟡 **2.x — Device Onboarding & Core Services** *(Coming Soon)*  
+We'll deploy users, configure DHCP/DNS, and introduce service roles to reflect real enterprise design.
+
+🔴 **3.x — Red/Blue Team Simulation Environment** *(Planned)*  
+Our lab will simulate attacks, defense mechanisms, lateral movement, and more for training and detection practice.
+
+---
+
+### 🛠️ Tools & Technologies
 
 - Windows Server (AD, DNS, DHCP)
 - Cisco Netacad (CCNA: Introduction to Networks)
@@ -31,7 +59,7 @@ This isn’t just about learning. It’s about building something I can point to
 
 ---
 
-### 🧭 Progress Snapshot
+### 📌 Progress Snapshot
 
 ![Status: EXP Grind in Progress](https://img.shields.io/badge/Status-EXP%20Grind%20In%20Progress-blueviolet)
 ![Learning: CCNA (Cisco Netacad)](https://img.shields.io/badge/Learning-CCNA%20%28Cisco%20Netacad%29-blue)
@@ -44,6 +72,8 @@ This isn’t just about learning. It’s about building something I can point to
 ![Skill: Infrastructure Design](https://img.shields.io/badge/Skill-Infrastructure%20Design-informational)
 ![Phase: Foundation Build](https://img.shields.io/badge/Phase-Foundation%20Build-yellow)
 ![Next: Red/Blue Team Simulation](https://img.shields.io/badge/Next%20Up-Red%2FBlue%20Team%20Simulation-orange)
+
+---
 
 ### License
 
